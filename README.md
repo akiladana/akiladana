@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akiladana&label=Profile%20views&color=0e75b6&style=flat" alt="akiladana" /> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **REACT**
 
-- 💬 Ask me about **python**
+- 💬 Ask me about **JS**
 
 - 📫 How to reach me **padananjana@gmail.com**
 
